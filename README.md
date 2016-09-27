@@ -1,5 +1,5 @@
 # pileofbutts.com
-I've had quite a bit of interest in how this was setup. It's actually pretty simple:
+I've had quite a bit of interest in how this was setup... It's actually pretty simple:
 
 * Domain was bought with [GoDaddy](https://godaddy.com/).
 * DNS is managed with [CloudFlare](https://www.cloudflare.com/).
