@@ -1,4 +1,4 @@
-# pileofbutts.com
+# [pileofbutts.com](https://pileofbutts.com)
 
 <small><i>Sensitive information has been removed/replaced with "[removed]" because of security concerns.</i></small>
 
