@@ -1,0 +1,32 @@
+{
+   "result":[
+      {
+         "id":"[removed]",
+         "targets":[
+            {
+               "target":"url",
+               "constraint":{
+                  "operator":"matches",
+                  "value":"http:\/\/*pileofbutts.com\/*"
+               }
+            }
+         ],
+         "actions":[
+            {
+               "id":"always_use_https"
+            }
+         ],
+         "priority":1,
+         "status":"active",
+         "created_on":"2016-07-27T22:38:54.000000Z",
+         "modified_on":"2016-07-27T22:38:54.000000Z"
+      }
+   ],
+   "success":true,
+   "errors":[
+
+   ],
+   "messages":[
+
+   ]
+}
