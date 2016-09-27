@@ -1,6 +1,6 @@
 # pileofbutts.com
 
-<span style="font-size:19px;"><i>Sensitive information has been removed/replaced with "[removed]" because of security concerns.</i></span>
+<span style="font-size:10px !important;"><i>Sensitive information has been removed/replaced with "[removed]" because of security concerns.</i></span>
 
 I've had quite a bit of interest in how this was setup... It's actually pretty simple:
 
